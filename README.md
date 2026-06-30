@@ -1,26 +1,28 @@
-# 🎮 Video Game Sales Analysis Dashboard
+# 🎮 PlayStation & Xbox Video Game Sales Dashboard (1999–2018)
 
 ## 📌 Overview
-This project presents an interactive Tableau dashboard analyzing global video game sales from 1999–2018. The dashboard helps identify sales trends across genres, platforms, and years.
+This Tableau dashboard analyzes PlayStation and Xbox video game sales between 1999 and 2018. It provides insights into sales performance by genre, platform, and year using interactive visualizations.
 
-## 📊 Tools Used
+## 🛠️ Tools Used
 - Tableau Public
 - Microsoft Excel
 - CSV Dataset
 
-## 📈 Dashboard Features
+## 📊 Dashboard Features
 - Global sales by genre
-- Sales trend by year
+- Sales trends by year
 - Platform filter
-- Interactive visualizations
+- Interactive dashboard
 
-## 📂 Files
-- Dataset (.csv)
-- Tableau Workbook (.twbx)
-- Dashboard Screenshot
+## 📂 Repository Structure
+```
+Dataset/
+Dashboard/
+README.md
+```
 
 ## 🔗 Tableau Public
-Add your Tableau Public link here.
+https://public.tableau.com/app/profile/uday.dubey/viz/PlaystationXboxVideoGameSalesAnalysisDashboard1999-2018/Dashboard1
 
 ---
-Created by **Uday Dubey**
+**Created by Uday Dubey**
